@@ -1,0 +1,16 @@
+# --- project ignores ---
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+*.zip
+
+# --- local dev / verification artifacts ---
+smoke-test.mjs
+smoke-out.txt
+smoke-*.png
+
+# Claude Code local settings (do not publish)
+.claude/

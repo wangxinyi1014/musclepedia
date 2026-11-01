@@ -1,0 +1,357 @@
+{
+  "total": 1324,
+  "unique_ids": 1324,
+  "languages": {
+    "en": 1324,
+    "es": 1324,
+    "it": 1324,
+    "tr": 1324,
+    "ru": 1324,
+    "zh": 1324,
+    "hi": 1324,
+    "pl": 1324,
+    "ko": 1324,
+    "fr": 1324
+  },
+  "missing_language_slots": 0,
+  "missing_media": [],
+  "missing_media_count": 0,
+  "by_category": [
+    {
+      "key": "upper arms",
+      "count": 292
+    },
+    {
+      "key": "upper legs",
+      "count": 227
+    },
+    {
+      "key": "back",
+      "count": 203
+    },
+    {
+      "key": "waist",
+      "count": 169
+    },
+    {
+      "key": "chest",
+      "count": 163
+    },
+    {
+      "key": "shoulders",
+      "count": 143
+    },
+    {
+      "key": "lower legs",
+      "count": 59
+    },
+    {
+      "key": "lower arms",
+      "count": 37
+    },
+    {
+      "key": "cardio",
+      "count": 29
+    },
+    {
+      "key": "neck",
+      "count": 2
+    }
+  ],
+  "by_body_part": [
+    {
+      "key": "upper arms",
+      "count": 292
+    },
+    {
+      "key": "upper legs",
+      "count": 227
+    },
+    {
+      "key": "back",
+      "count": 203
+    },
+    {
+      "key": "waist",
+      "count": 169
+    },
+    {
+      "key": "chest",
+      "count": 163
+    },
+    {
+      "key": "shoulders",
+      "count": 143
+    },
+    {
+      "key": "lower legs",
+      "count": 59
+    },
+    {
+      "key": "lower arms",
+      "count": 37
+    },
+    {
+      "key": "cardio",
+      "count": 29
+    },
+    {
+      "key": "neck",
+      "count": 2
+    }
+  ],
+  "by_equipment": [
+    {
+      "key": "body weight",
+      "count": 325
+    },
+    {
+      "key": "dumbbell",
+      "count": 294
+    },
+    {
+      "key": "cable",
+      "count": 157
+    },
+    {
+      "key": "barbell",
+      "count": 154
+    },
+    {
+      "key": "leverage machine",
+      "count": 81
+    },
+    {
+      "key": "band",
+      "count": 54
+    },
+    {
+      "key": "smith machine",
+      "count": 48
+    },
+    {
+      "key": "kettlebell",
+      "count": 41
+    },
+    {
+      "key": "weighted",
+      "count": 36
+    },
+    {
+      "key": "stability ball",
+      "count": 28
+    },
+    {
+      "key": "ez barbell",
+      "count": 23
+    },
+    {
+      "key": "assisted",
+      "count": 15
+    },
+    {
+      "key": "sled machine",
+      "count": 15
+    },
+    {
+      "key": "medicine ball",
+      "count": 13
+    },
+    {
+      "key": "rope",
+      "count": 10
+    },
+    {
+      "key": "roller",
+      "count": 8
+    },
+    {
+      "key": "resistance band",
+      "count": 7
+    },
+    {
+      "key": "bosu ball",
+      "count": 3
+    },
+    {
+      "key": "olympic barbell",
+      "count": 2
+    },
+    {
+      "key": "wheel roller",
+      "count": 2
+    },
+    {
+      "key": "upper body ergometer",
+      "count": 1
+    },
+    {
+      "key": "skierg machine",
+      "count": 1
+    },
+    {
+      "key": "hammer",
+      "count": 1
+    },
+    {
+      "key": "stationary bike",
+      "count": 1
+    },
+    {
+      "key": "tire",
+      "count": 1
+    },
+    {
+      "key": "trap bar",
+      "count": 1
+    },
+    {
+      "key": "elliptical machine",
+      "count": 1
+    },
+    {
+      "key": "stepmill machine",
+      "count": 1
+    }
+  ],
+  "by_target": [
+    {
+      "key": "abs",
+      "count": 169
+    },
+    {
+      "key": "pectorals",
+      "count": 158
+    },
+    {
+      "key": "biceps",
+      "count": 151
+    },
+    {
+      "key": "glutes",
+      "count": 144
+    },
+    {
+      "key": "delts",
+      "count": 143
+    },
+    {
+      "key": "triceps",
+      "count": 141
+    },
+    {
+      "key": "upper back",
+      "count": 88
+    },
+    {
+      "key": "lats",
+      "count": 81
+    },
+    {
+      "key": "calves",
+      "count": 59
+    },
+    {
+      "key": "quads",
+      "count": 44
+    },
+    {
+      "key": "forearms",
+      "count": 37
+    },
+    {
+      "key": "cardiovascular system",
+      "count": 29
+    },
+    {
+      "key": "hamstrings",
+      "count": 28
+    },
+    {
+      "key": "spine",
+      "count": 19
+    },
+    {
+      "key": "traps",
+      "count": 15
+    },
+    {
+      "key": "adductors",
+      "count": 6
+    },
+    {
+      "key": "serratus anterior",
+      "count": 5
+    },
+    {
+      "key": "abductors",
+      "count": 5
+    },
+    {
+      "key": "levator scapulae",
+      "count": 2
+    }
+  ],
+  "by_muscle_group": [
+    {
+      "key": "shoulders",
+      "count": 191
+    },
+    {
+      "key": "forearms",
+      "count": 165
+    },
+    {
+      "key": "biceps",
+      "count": 164
+    },
+    {
+      "key": "triceps",
+      "count": 161
+    },
+    {
+      "key": "hamstrings",
+      "count": 127
+    },
+    {
+      "key": "quadriceps",
+      "count": 110
+    },
+    {
+      "key": "glutes",
+      "count": 71
+    },
+    {
+      "key": "obliques",
+      "count": 67
+    },
+    {
+      "key": "hip flexors",
+      "count": 66
+    },
+    {
+      "key": "chest",
+      "count": 53
+    },
+    {
+      "key": "trapezius",
+      "count": 36
+    },
+    {
+      "key": "traps",
+      "count": 32
+    },
+    {
+      "key": "deltoids",
+      "count": 24
+    },
+    {
+      "key": "calves",
+      "count": 11
+    },
+    {
+      "key": "ankles",
+      "count": 11
+    }
+  ]
+}
